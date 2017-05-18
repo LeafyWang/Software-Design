@@ -1,6 +1,6 @@
 # Software-Design
 
-2017 Spring
+2017 Spring HIT
 
 ADVANCED DATA STRUCTURE
 
